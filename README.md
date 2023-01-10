@@ -1,6 +1,6 @@
 # cm-to-inch-converter
 
-<b>Purpose</b>: no specific need or purpose for the tool itself, but I just wanted a platform to try out some custom CSS and a little bit of JavaScript.
+<b>Purpose</b>: no specific need or purpose for the tool itself, but I just wanted a platform to try building out some custom CSS from scratch, not following any tutorials, but entirely self-guided to see if I could do it.
 
 <b>Languages used:</b>
 - html: very basic divs, nothing special
