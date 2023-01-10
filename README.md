@@ -2,6 +2,8 @@
 
 <b>Purpose</b>: no specific need or purpose for the tool itself, but I just wanted a platform to try building out some custom CSS from scratch, not following any tutorials, but entirely self-guided to see if I could do it.
 
+<b>End result:</b> https://james-gulland.github.io/cm-to-inch-converter/
+
 <b>Languages used:</b>
 - html: very basic divs, nothing special
 - css: tried importing Google web fonts for the first time, tried using flexbox for the first time (outside of tutorials), had fun with some button and input styling
